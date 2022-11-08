@@ -1,3 +1,3 @@
-# final project ideas
+# collection of project ideas for final year students
 
-This is a repository with a collection of final project ideas for students of the Computer Engineering and Information Technology Department at the United African University of Tanzania year 2022.
+A repository with a collection of project ideas for final year students
