@@ -1,0 +1,3 @@
+# 2020_DISTRIBUTED COMPONENTS ROUTER BASED SUPPLY CHAIN MANAGEMENT
+
+talk about the title (Abstract of the project)
